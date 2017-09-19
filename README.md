@@ -1,3 +1,5 @@
+## Project transfered to [jdf2e/dns_flusher](https://github.com/jdf2e/dns_flusher)
+
 ### DNS Flusher
 
 #NOTE
